@@ -1,0 +1,21 @@
+{
+  "render": "Render",
+  "renderMdAlt": "Render Markdown",
+  "saveToMd": "Save md",
+  "saveToMdAlt": "Save to Markdrown file",
+  "saveToHtml":"Save Html",
+  "saveToHtmlAlt":"Save to Html file",
+  "darkMode": "Dark mode",
+  "print":"Print",
+  "printAlt":"Print preview",
+  "demo":"Demo",
+  "demoAlt":"View editor demo",
+  "about":"About",
+  "aboutAlt":"About Markdroids",
+  "modal":{
+      "title":"Markdroids",
+      "txt": "Made with ♥ by",
+      "link": "https://monchovarela.es",
+      "linkTxt": "Moncho Varela"
+  }
+}

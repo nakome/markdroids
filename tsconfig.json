@@ -1,0 +1,19 @@
+{
+  "outDir": "dist",
+  "declaration": true,
+
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["ESNext", "DOM"],
+    "moduleResolution": "Node",
+    "strict": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "strictNullChecks":false,
+    "noEmit": true
+  },
+  "include": ["src"]
+}
